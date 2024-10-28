@@ -1,0 +1,132 @@
+img{
+    width: 300px;
+}
+nav{
+    font-size: 1rem;
+    margin: 15px;
+    padding: 15px;
+    
+}
+a{
+    text-decoration: none;
+}
+.mainheading{
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 30px;
+    
+}
+h2{
+    
+    text-align: center;
+    border-radius: 20px;
+    background-color:rgb(108, 76, 138)
+
+}
+.ElonMusk{
+    display: inline-block;
+background-color: aqua;
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+
+.JeffBezos{
+    display: inline-block;
+background-color: rgb(145, 219, 219);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.MarkZuckerberg{
+    display: inline-block;
+background-color: rgb(129, 196, 116);
+    width: 300px;
+    height: 540px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.Markpara{
+    overflow: scroll;
+    height: 200px;
+    width: 300px;
+}
+.BernardArnault{
+    display: inline-block;
+background-color: rgb(35, 57, 57);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.LarryEllison{
+    display: inline-block;
+background-color: rgb(170, 166, 62);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+
+.BillGates{
+    display: inline-block;
+background-color: rgb(87, 41, 91);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.LarryPage{
+    display: inline-block;
+background-color: rgb(52, 119, 102);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.SteveBallmer{
+    display: inline-block;
+background-color: aqua;
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.WarrenBuffett{
+    display: inline-block;
+background-color: rgb(93, 145, 69);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+
+}
+.SergeyBrin{
+    display: inline-block;
+background-color: rgb(102, 51, 26);
+    width: 300px;
+    border: 10px solid gray;
+    border-radius: 20px;
+    text-align: justify;
+    padding: 20px;
+}
